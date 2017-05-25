@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website Contents
 
-Going to try and learn git today.
-
-Not going too bad.. I understand the logic so far.
+1. index.html
